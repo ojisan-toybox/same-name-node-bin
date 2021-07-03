@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/ojisan-toybox/same-name-node-bin.git",
   "author": "sadness_ojisan <sadness.ojisan@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "same-name-node-bin-for-aaa": "github:ojisan-toybox/same-name-node-bin-for-aaa",
+    "same-name-node-bin-for-bbb": "github:ojisan-toybox/same-name-node-bin-for-bbb"
+  }
 }
